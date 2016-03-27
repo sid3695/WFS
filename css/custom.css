@@ -1,0 +1,21 @@
+=====================
+SERVICES
+=====================
+
+*/
+.box-services {
+  padding: 40px 20px 20px;
+  border-bottom: 1px solid #d4d4d4;
+  background: #fff;
+}
+.box-services .icon {
+  text-align: center;
+  font-size: 25px;
+  color: #000;
+}
+.box-services p {
+  color: #999999;
+  text-align: center;
+  font-size: 11px;
+}
+/*
